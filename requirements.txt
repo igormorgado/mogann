@@ -1,0 +1,11 @@
+scoop
+deap
+scikit-learn
+sklearn-genetic
+statsmodels
+matplotlib
+numpy
+scipy
+pandas
+ipython
+networkx
