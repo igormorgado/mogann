@@ -3,7 +3,7 @@ Multi Objective Genetic Algorithm applied to Neural Networks
 
 ![Evolution](imgs/pareto.mp4)
 
-![Pareto Front](imgs/mlp_frentepareto.png)
+![Pareto Front](imgs/frentepareto.png)
 
 ![Dataset deviatiton](imgs/plot_deviation.png)
 
